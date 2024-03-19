@@ -1,4 +1,5 @@
- <h1 align="center"> Suhail Md </h1> 
+## Makima Md
+
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
