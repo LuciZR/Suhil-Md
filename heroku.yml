@@ -1,5 +1,0 @@
-build:
-  docker:
-      web: Makima_Md
-run:
-  web: npm start
